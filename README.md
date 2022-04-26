@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <!-- [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga) -->
 [![Linkedin: ilungantita](https://img.shields.io/badge/-ilungantita-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ilungantita/)](https://www.linkedin.com/in/ilunga-ntita-53bb451a2/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/ilungantita?label=follow&style=social)](https://github.com/Thaiane)
+[![GitHub Thaiane](https://img.shields.io/github/followers/ilungantita?label=follow&style=social)](https://github.com/ilungantita)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
