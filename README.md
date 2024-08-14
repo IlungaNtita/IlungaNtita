@@ -10,11 +10,10 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 <h2> Hi, I'm Ntita Ilunga!</h2>
-<p><em>Software Enginner at <a href="http://www.sinappsus.co.za">Sinappsus</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Enginner at <a href="https://www.fahrenheitmarketing.com">Fahrenheit Marketing</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
 <!-- [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga) -->
@@ -27,8 +26,8 @@ Here are some ideas to get you started:
 ```javascript
 let ntita = {
   gender: "male",
-  code: [Javascript, Typescript, HTML, CSS, Python],
-  tools: [React, Redux, Node, Vue, Django, Docker, DevOps],
+  code: [Javascript, Typescript, HTML, CSS, Python, PHP, Node],
+  tools: [React, Redux, Node, Vue, Django, Docker, DevOps, WordPress, Shopify, BigCommerce],
   architecture: ["microservices", "event-driven", "design system pattern"],
   challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
